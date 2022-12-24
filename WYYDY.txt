@@ -1,0 +1,9 @@
+proxies:
+  - {name: 公众号墨鱼手记-收费请举报, server: 100.100.100.100, port: 10000, type: http, tls: false}
+  - {name: 网易云解锁1, server: os.tencentcdn.net, port: 25000, type: http, tls: false}
+  - {name: 网易云解锁2, server: pc.tencentcdn.net, port: 35000, type: http, tls: false}
+  - {name: 网易云解锁3, server: 155.248.169.205, port: 70, type: http, tls: false}
+  - {name: 网易云解锁4, server: 42.193.231.48, port: 70, type: http, tls: false}
+  - {name: 网易云解锁5, server: 101.132.192.212, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
+  - {name: 网易云解锁6, server: 101.132.192.212, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
+  - {name: UpdateTime20221028, server: 100.100.100.100, port: 20000, type: http, tls: false}
